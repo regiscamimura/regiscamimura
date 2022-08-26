@@ -2,7 +2,7 @@
 
 I'm a quiet patient stubborn guy, as the most developers has to be in some degree. I've been working with web development since 2004, but still aware that there are too many things to learn.
 
-I'm a husband and a father of two. It's also helpful being quiet, patient, and stubborn guy on that front as well. 
+I'm a husband and a father of two. It's helpful to be a quiet, patient, and stubborn guy on that front as well. 
 
 ### Skills
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
