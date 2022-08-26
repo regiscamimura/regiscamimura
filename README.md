@@ -11,8 +11,8 @@ I'm a husband and a father of two. It's also helpful being quiet, patient, and s
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![Postgre](https://img.shields.io/badge/-Postgre-000?&logo=postgresql)
-![WordPress](https://img.shields.io/badge/-wordPress-000?&logo=wordpress)
+![Postgre](https://img.shields.io/badge/-Postgres-000?&logo=postgresql)
+![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=wordpress)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
 
@@ -32,7 +32,7 @@ I usually have a very stable schedule with normal working hours. I don't work ov
 4. I'm a coward and for that reason I usually speak the truth.
 5. I don't mind for smiles and soft words, please don't bother with my feelings as long as you tell me the truth.
 6. I'm a good listener. 
-7. I like to learn, which means I can take a lot of frustration and anger. I'll chew rocks, if there's a drop of water inside.
+7. I like to learn, which means I can take a lot of frustration and anger. I'll chew rocks, if there's a single drop of water inside it.
 
 #### Cons
 
@@ -40,7 +40,7 @@ I usually have a very stable schedule with normal working hours. I don't work ov
 2. I tend to overthink things and my taste for complexities sometimes leads me off road.
 3. I like to talk and I can spend all the time possible into discussions. The more useless the better. But I need to go heads down to get things done, and I often take too much to respond to messages.
 4. My willingness to help can easily be abused. Please don't do that to me.
-5. I forget things unless I write them down.
+5. I forget things unless I write them down. And sometimes I forget to write things. And sometimes I'll loss the paper where I wrote them. I'm trying.
 6. I'm stubborn, you might need to tell me the same thing more than once. I'm not that a good listener?
 7. I'm not super carefuly and sometimes over confident. In other words, I may blew things up.
 
