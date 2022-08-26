@@ -36,7 +36,7 @@ I usually have a very stable schedule with regular working hours. I usually don'
 4. I'm a coward and for that reason I usually speak the truth.
 5. I don't mind for smiles and soft words, please don't bother with my feelings as long as you tell me the truth.
 6. I'm a good listener. 
-7. I like to learn, which means I can take a lot of frustration and anger. I'll chew rocks, if there's a single drop of water inside it.
+7. I like to learn, which means I can take a lot of frustration and anger. I'll chew a rock if there's a single drop of water inside it.
 
 #### Cons
 
