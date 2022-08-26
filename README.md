@@ -15,6 +15,9 @@ I'm a husband and a father of two. It's helpful to be a quiet, patient, and stub
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=wordpress)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+![Cordova](https://img.shields.io/badge/-Cordova-000?&logo=apache-cordova)
+![NativeScript](https://img.shields.io/badge/-NativeScript-000?&logo=NativeScript)
+![Ionic](https://img.shields.io/badge/-Ionic-000?&logo=ionic)
 
 ### User manual
 
