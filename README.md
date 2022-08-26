@@ -22,7 +22,7 @@ _Here are some ways to help me work with you better_
 
 I'm a morning person, expect the best from me in the mornings. For coding or meetings, morning is my time. 
 
-I usually have a very stable schedule with normal working hours. I don't work over night or on the weekends.
+I usually have a very stable schedule with regular working hours. I usually don't work over night or on the weekends.
 
 #### Pros
 
