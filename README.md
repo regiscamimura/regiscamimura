@@ -5,20 +5,21 @@ I'm a quiet patient stubborn guy, as the most developers has to be in some degre
 I'm a husband and a father of two. It's helpful to be a quiet, patient, and stubborn guy on that front as well. 
 
 ### Skills
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Vue](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![SQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![Postgre](https://img.shields.io/badge/-Postgres-000?&logo=postgresql)
-![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=wordpress)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=254BDD)
-
-![Cordova](https://img.shields.io/badge/-Cordova-000?&logo=apache-cordova&logoColor=4CC2E4)
-![NativeScript](https://img.shields.io/badge/-NativeScript-000?&logo=NativeScript&logoColor=65ADF1)
-![Ionic](https://img.shields.io/badge/-Ionic-000?&logo=ionic)
+![](https://img.shields.io/badge/-PHP-000?&logo=php)
+![](https://img.shields.io/badge/-Python-000?&logo=Python)
+![](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
+![](https://img.shields.io/badge/-Angular-000?&logo=angular&logoColor=DD0031)
+![](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![](https://img.shields.io/badge/-Postgres-000?&logo=postgresql)
+![](https://img.shields.io/badge/-WordPress-000?&logo=wordpress)
+![](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![](https://img.shields.io/badge/-CSS3-000?&logo=css3&logoColor=254BDD)
+![](https://img.shields.io/badge/-Sass-000?&logo=sass)
+![](https://img.shields.io/badge/-Cordova-000?&logo=apache-cordova&logoColor=4CC2E4)
+![](https://img.shields.io/badge/-NativeScript-000?&logo=NativeScript&logoColor=65ADF1)
+![](https://img.shields.io/badge/-Ionic-000?&logo=ionic)
 
 ### User manual
 
