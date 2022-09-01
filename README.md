@@ -58,7 +58,7 @@ I like astronomy and I've built my own telescope. There's some ambiguity around 
 
 I also like martial arts and I've been practing a few different arts in the last 7 years. What I liked the most is boxing and that's what I've been training in the past 3 years. I can take punches. 
 
-Poetry and books. I have this hobby called "thinking" since I was 14yo., and you can find my late in the night doing nothing, sitting and still, but it's not that I'm doing nothing, I'm just practing this hobby of thinking of things.
+Poetry and books. I have this hobby called "thinking" since I was 14yo., and you can find me late in the night doing nothing, sitting and still, but it's not that I'm doing nothing, I'm just practing this hobby of thinking of things.
 
 
 
