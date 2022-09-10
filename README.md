@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a quiet patient stubborn guy, as the most developers has to be in some degree. I've been working in web development since 2004, but still aware that there are  many things yet to learned.
+I'm a quiet patient stubborn guy, as the most developers has to be in some degree. I've been working in web development since 2004, but still aware that there are  many things yet to be learned.
 
 I'm a husband and a father of two. It's helpful to be a quiet, patient, and stubborn guy on that front as well. Wife and kids may disagree.
 
