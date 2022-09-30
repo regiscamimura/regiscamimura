@@ -52,7 +52,10 @@ I usually have a very stable schedule with regular working hours. I usually don'
 6. I'm stubborn, you might need to tell me the same thing more than once. I'm not that good of a listener?
 7. I'm not super careful and sometimes over confident. In other words, I may blew things up.
 
-### Things I like
+
+### Personal interests
+
+#### Things I like
 
 I like astronomy and I've built my own telescope. There's some ambiguity around that telescope, which is that it was built so I could look at the stars and planets, but sometimes I look more at the telescope itself than the sky. It's my personal struggle between the machine and the contemplation, between expanding myself in the sky and trying to compress the sky inside my head. 
 
@@ -60,7 +63,7 @@ I also like martial arts and I've been practing a few different arts in the last
 
 Poetry and books. I have this hobby called "thinking" since I was 14yo., and you can find me late in the night doing nothing, sitting and still, but it's not that I'm doing nothing, I'm just practing this hobby of thinking of things.
 
-### Things I dislike
+#### Things I dislike
 
 Mobile devices, bluetooth, and frogs. 
 
