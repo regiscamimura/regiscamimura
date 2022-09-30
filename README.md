@@ -60,6 +60,8 @@ I also like martial arts and I've been practing a few different arts in the last
 
 Poetry and books. I have this hobby called "thinking" since I was 14yo., and you can find me late in the night doing nothing, sitting and still, but it's not that I'm doing nothing, I'm just practing this hobby of thinking of things.
 
+### Things that I dislike
 
+Mobile devices, bluetooth, and frogs. 
 
 
