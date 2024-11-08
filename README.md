@@ -23,6 +23,7 @@ I'm a husband and a father of two. It's also helpful to be a quiet, patient, and
 ![](https://img.shields.io/badge/-Cordova-000?&logo=apache-cordova&logoColor=4CC2E4)
 ![](https://img.shields.io/badge/-NativeScript-000?&logo=NativeScript&logoColor=65ADF1)
 ![](https://img.shields.io/badge/-Ionic-000?&logo=ionic)
+![](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch)
 
 ### User manual
 
@@ -31,6 +32,10 @@ _Here are some ways to help me work with you better_
 I'm a morning person, expect the best from me in the mornings. For coding or meetings, morning is my time. 
 
 I usually have a very stable schedule with regular working hours. I usually don't work overnight or on the weekends.
+
+I like to contribute and care about results. I'm not the kind of person who goes 🤷‍♂️ and says "Whatever". Please don't tell me to just do as I'm told and follow instructions, I don't take that very well. I work better if I understand the problem I'm working on and if I can think of a solution myself, or at least contribute to the solution.
+
+Also, I like to talk to users and understand the real-world scenario. Too much abstraction is no virtue, let's not work on imaginary scenarios. Thank you ![@wadewilliams](https://github.com/wadewilliams), I learned that one from him.
 
 #### Pros
 
@@ -56,10 +61,6 @@ I usually have a very stable schedule with regular working hours. I usually don'
 ### Personal interests
 
 #### Things I like
-
-I like astronomy and I've built my own telescope. There's some ambiguity around that telescope, which is that it was built so I could look at the stars and planets, but sometimes I look more at the telescope itself than the sky. It's my personal struggle between the machine and the contemplation, between expanding myself in the sky and trying to compress the sky inside my head. 
-
-I also like martial arts and I've been practicing a few different arts in the last 8 years. What I liked the most is boxing and that's what I've been training in the past 4 years. I can take punches. 
 
 Poetry and books. I have had this hobby called "thinking" since I was 14yo., and you can find me late in the night doing nothing, sitting and still, but it's not that I'm doing nothing, I'm just practicing this hobby of thinking of things.
 
