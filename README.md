@@ -35,7 +35,7 @@ I usually have a very stable schedule with regular working hours. I usually don'
 
 I like to contribute and care about results. I'm not the kind of person who goes 🤷‍♂️ and says "Whatever". Please don't tell me to just do as I'm told and follow instructions, I don't take that very well. I work better if I understand the problem I'm working on and if I can think of a solution myself, or at least contribute to the solution.
 
-Also, I like to talk to users and understand the real-world scenario. Too much abstraction is no virtue, let's not work on imaginary scenarios. Thank you ![@wadewilliams](https://github.com/wadewilliams), I learned that one from him.
+Also, I like to talk to users and understand the real-world scenario. Too much abstraction is no virtue, let's not work on imaginary scenarios. Kudos ![@wadewilliams](https://github.com/wadewilliams).
 
 #### Pros
 
