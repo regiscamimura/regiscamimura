@@ -5,9 +5,10 @@ I'm a quiet patient stubborn guy, as most developers have to be to some degree. 
 I'm a husband and a father of two. It's also helpful to be a quiet, patient, and stubborn guy on that front. Wife and kids may disagree.
 
 ### Skills
-![](https://img.shields.io/badge/-PHP-000?&logo=php)
 ![](https://img.shields.io/badge/-Python-000?&logo=Python)
+![](https://img.shields.io/badge/-PHP-000?&logo=php)
 ![](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
+![](https://img.shields.io/badge/-Docker-000?logo=docker&logoColor=blue)
 ![](https://img.shields.io/badge/-Angular-000?&logo=angular&logoColor=DD0031)
 ![](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
