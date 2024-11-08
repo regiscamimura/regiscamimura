@@ -23,7 +23,7 @@ I'm a husband and a father of two. It's also helpful to be a quiet, patient, and
 ![](https://img.shields.io/badge/-Cordova-000?&logo=apache-cordova&logoColor=4CC2E4)
 ![](https://img.shields.io/badge/-NativeScript-000?&logo=NativeScript&logoColor=65ADF1)
 ![](https://img.shields.io/badge/-Ionic-000?&logo=ionic)
-![](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch)
+![](https://img.shields.io/badge/-Elasticsearch-000?logo=elasticsearch&logoColor=blue)
 
 ### User manual
 
