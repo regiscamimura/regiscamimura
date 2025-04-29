@@ -6,9 +6,9 @@ I'm a husband and a father of two. It's also helpful to be a quiet, patient, and
 
 ### Skills
 ![](https://img.shields.io/badge/-Python-000?&logo=Python)
-![](https://img.shields.io/badge/-Django-092D1F?&logo=Django)
-![](https://img.shields.io/badge/-GraphQL-F6009B?&logo=GraphQL)
-![](https://img.shields.io/badge/-Node-53A144?&logo=Node)
+![](https://img.shields.io/badge/-Django-000?&logo=Django)
+![](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
+![](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![](https://img.shields.io/badge/-PHP-000?&logo=php)
 ![](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
 ![](https://img.shields.io/badge/-React-000?&logo=React)
