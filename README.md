@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello! 👋
 
-I'm a quiet patient stubborn guy, as most developers have to be to some degree. I've been working in web development since 2004, but I'm still aware that there are  many things yet to be learned.
+I'm Regis, a quiet patient stubborn guy, as most developers have to be to some degree. I've been working in web development since 2004, but I'm still aware that there are  many things yet to be learned.
 
 I'm a husband and a father of two. It's also helpful to be a quiet, patient, and stubborn guy on that front. Wife and kids may disagree.
 
