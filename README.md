@@ -57,7 +57,7 @@ Also, I like to talk to users and understand the real-world scenario. Too much a
 
 1. I'm not a genius. Please be patient.
 2. I tend to overthink things, and my taste for complexity sometimes leads me off-road.
-3. I like to talk, and I can spend all the time possible in discussions. The more useless the better. But I need to go head down to get things done, and I often take too much time to respond to messages.
+3. I like to talk, and I can spend all the time possible in discussions. The more useless, the better. But I need to go heads down to get things done, and I often take too much time to respond to messages.
 4. My willingness to help can easily be abused. Please don't do that to me.
 5. I forget things unless I write them down. And sometimes I forget to write things. And sometimes I'll lose the paper where I wrote them. I'm trying.
 6. I'm stubborn, you might need to tell me the same thing more than once. I'm not that good of a listener?
@@ -72,6 +72,6 @@ Poetry and books. I have had this hobby called "thinking" since I was 14yo., and
 
 #### Things I dislike
 
-Mobile devices, Bluetooth things, and frogs. 
+Mobile devices, Bluetooth things, bureaucracy, and frogs. 
 
 
